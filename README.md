@@ -4,6 +4,7 @@ This is a fully local AI agent built using LLaMA 3, LangChain, and ChromaDB, des
 It runs entirely on your machine using the Ollama framework to serve the LLaMA 3 model locally, making it a privacy-focused and developer-friendly tool for querying structured data with the power of AI.
 
 ✨ Features
+
 🔍 RAG-enabled CSV comprehension — Just provide a .csv file and start querying it intelligently.
 
 🦙 LLaMA 3 powered LLM — Runs locally using Ollama, ensuring fast and private responses.
