@@ -1,5 +1,6 @@
 # Local_ai_agent
 🧠 Description
+
 This is a fully local AI agent built using LLaMA 3, LangChain, and ChromaDB, designed for Retrieval-Augmented Generation (RAG). By simply providing a CSV file, the agent indexes its contents and allows you to ask natural language questions — delivering intelligent, context-aware responses without needing internet access or any external APIs.
 It runs entirely on your machine using the Ollama framework to serve the LLaMA 3 model locally, making it a privacy-focused and developer-friendly tool for querying structured data with the power of AI.
 
